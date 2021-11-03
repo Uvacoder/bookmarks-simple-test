@@ -17,7 +17,7 @@ const Home: NextPage<any> = (props: Props) => {
 
       <header>
         <Center bg="#458BD9" h="100px" color="white">
-          俺のブックマーク
+          My Bookmarks
         </Center>
       </header>
 
